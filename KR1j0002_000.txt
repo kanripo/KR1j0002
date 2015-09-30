@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.060015
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0021-000爾雅-序.
 <pb:KR1j0002_SBCK_000-1a>¶
 爾雅序¶
 　　　　　　　　郭璞撰¶
@@ -21,4 +25,3 @@
 稂事有隱滯援據徴之其所易了闕而不¶
 論别爲音圖用袪未寤輒復擁篲清道企¶
 望塵躅者以將來君子爲亦有渉乎此也¶
-

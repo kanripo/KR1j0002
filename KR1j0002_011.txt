@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.597203
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0022-012爾雅音釋-卷十二.
 <pb:KR1j0002_SBCK_011-1a>¶
 有穴為岫(謂巖/穴)山西曰夕陽(暮乃/見日)山東曰朝陽(旦即/見日)泰山爲¶
 東嶽華山爲西嶽霍山爲南嶽(即天柱山/潜水所出)&KR0106;山爲北嶽(常/山)¶
@@ -45,4 +49,3 @@
 從釋地已下至九河皆禹所名也¶
 爾雅卷中(經三千五百六十四字/注四千三百二十二字)¶
 <pb:KR1j0002_SBCK_011-3a>¶
-

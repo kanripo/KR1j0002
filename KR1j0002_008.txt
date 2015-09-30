@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.492802
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0022-009爾雅音釋-卷九.
 <pb:KR1j0002_SBCK_008-1a>¶
 有事乎社而後出謂之冝(有事祭也周官/所謂冝乎社)振旅闐闐(振旅整衆闐/闐/羣行聲)¶
 出爲治兵尚威武也(幼賤在前/貴勇力)入爲振旅反尊卑也(尊老在前/復常儀也)¶
@@ -57,4 +61,3 @@
 　　　　野¶
 東至於泰逺西至於邠國南至於濮鈆北至於祝栗謂之¶
 四極(皆四方極/逺之國)觚竹北戸西王母日下謂之四荒(觚竹在北北/戸在南西王)¶
-

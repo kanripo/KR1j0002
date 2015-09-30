@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.631123
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0022-013爾雅音釋-卷十三.
 <pb:KR1j0002_SBCK_012-1a>¶
 爾雅卷下¶
 　　　　　　　　　　　郭璞注¶
@@ -91,4 +95,3 @@
 葟華榮(釋言云華皇也今俗呼草木華初生者爲/芛音䝐豬蕍猶敷蕍亦華之貌所未聞)卷施草拔心不¶
 死(宿莽也/離騷云)荺茭(今江東呼藕紹緒如指空/中可啖者爲茭茭即此&KR0011;)荄根(別二名俗呼/韭根爲荄)攫橐¶
 含(未/詳)華荂也(今江東呼華/爲荂音敷)華荂榮也(轉相/解)木謂之華草¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.562782
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0022-011爾雅音釋-卷十一.
 <pb:KR1j0002_SBCK_010-1a>¶
 (魁梧桀大者五但未詳/其名號今者所在耳)¶
 　　　　丘¶
@@ -24,4 +28,3 @@
 草木岵無草木峐(皆見/詩)山上有水埒(有停/泉)夏有水冬無水¶
 澩(有停/潦)山豄無所通谿(所謂窮瀆者雖無所/通與水注川同名)石戴土謂之崔嵬¶
 (石山上/有土者)土戴石爲砠(土山上/有石者)山夾水澗陵夾水澞(别山陵間/水者之名)山¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 爾雅
-#+DATE: 2015-09-23 09:41:07
+#+DATE: 2015-09-10 22:50:20.854275
+#+PROPERTY: ID KR1j0002
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB01n0022-019爾雅音釋-卷十九.
 <pb:KR1j0002_SBCK_018-1a>¶
 　　　　須屬¶
 釋畜第十九¶
@@ -43,4 +47,3 @@
 爾雅卷下¶
 (經三千一百一十三字/注七千八百九十字)¶
 <pb:KR1j0002_SBCK_018-3a>¶
-
